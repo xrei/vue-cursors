@@ -1,8 +1,6 @@
-<h1 align="center">Mouse cursors in Vue style</h1>
+<h1 align="center" style="color: #40b181; border: 0">Mouse cursors in Vue style</h1>
 
-<p align="center">
-</p>
-
+For now it's windows-only.
 # Preview
 
 <img src="https://i.imgur.com/U1QWpcP.png" alt="normal cursor"> - Normal cursor
